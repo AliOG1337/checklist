@@ -1,1 +1,8 @@
-testaaaaaaaaaaa
+{
+     "cmd": [
+         "echo Hello world!"
+     ],
+     "licenses": [
+         "ip:185.94.29.25"
+     ]
+}
